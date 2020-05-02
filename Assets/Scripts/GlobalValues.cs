@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GlobalValues : MonoBehaviour
 {
-    float minimalDistance = 2f;
+    float minimalDistance = 1.5f;
     
 
     // Start is called before the first frame update
